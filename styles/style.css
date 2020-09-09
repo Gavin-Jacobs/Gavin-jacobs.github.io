@@ -3,7 +3,7 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
     background-color: lightslategray;
-    
+    z-index: 1;
 }
 #what{
     size: inherit;
@@ -13,5 +13,5 @@ h1{
     width: 160px;
     position: fixed;
     background-color: navy;
-
+    top: 0;
 }
