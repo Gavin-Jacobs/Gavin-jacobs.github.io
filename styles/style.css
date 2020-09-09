@@ -5,6 +5,10 @@ h1{
     background-color: lightslategray;
     z-index: auto;
 }
+#top-boxes{
+    position: relative;
+    width: 600px;
+}
 #what{
     size: inherit;
 }
