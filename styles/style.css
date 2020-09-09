@@ -8,6 +8,7 @@ h1{
 #top-boxes{
     position: relative;
     width: 600px;
+    float: left;
 }
 #what{
     size: inherit;
