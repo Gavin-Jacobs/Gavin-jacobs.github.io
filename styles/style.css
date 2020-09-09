@@ -9,8 +9,9 @@ h1{
     size: inherit;
 }
 #sidebar{
+    height: 100%;
     width: 160px;
     position: fixed;
     background-color: navy;
-    
+
 }
