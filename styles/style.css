@@ -5,3 +5,12 @@ h1{
     background-color: lightslategray;
     
 }
+#what{
+    size: inherit;
+}
+#sidebar{
+    width: 160px;
+    position: fixed;
+    background-color: navy;
+    
+}
