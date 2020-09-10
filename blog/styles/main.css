@@ -4,7 +4,7 @@ h1{
     font-size: 60px;
     background-color: lightslategray;
     z-index: -1;
-    margin-left: 5px;
+    margin-left: 10px;
     margin-top: 0px;
 }
 body{
@@ -12,7 +12,7 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .content{
-    margin-left: 155px;
+    margin-left: 160px;
    
 }
 #top-boxes{
