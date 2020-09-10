@@ -12,16 +12,17 @@ h1{
 #top-boxes{
     position: relative;
     width: 600px;
+    float: left;
 }
 #what{
-  float: left;
+  
 }
 #sidebar{
     text-decoration-color: darkgrey;
     height: 100%;
     width: 160px;
     position: fixed;
-    background-color: cornsilk;
+    background-color: cornflowerblue;
     top: 0;
     z-index: 2;
   
