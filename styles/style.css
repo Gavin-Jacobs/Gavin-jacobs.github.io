@@ -9,11 +9,8 @@ h1{
 .content{
     margin-left: 160px;
 }
-.opens{
-    position: relative;
-    width: auto;
+#top-boxes{
     float: left;
-    padding: 600px;
 }
 #what{
     width: 120px;
