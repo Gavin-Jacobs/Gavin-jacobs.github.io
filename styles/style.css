@@ -10,8 +10,8 @@ h1{
     margin-left: 160px;
 }
 #top-boxes{
-    height: 60%;
-    width: 60%;
+    height: 120px;
+    width: 120px;
     position: relative;
 }
 #what{
@@ -24,7 +24,7 @@ h1{
 img{
     height: 50%;
     width: 50%;
-    object-fit: fill;
+    object-fit: contain;
 }
 #sidebar{
     text-decoration-color: darkgrey;
