@@ -5,6 +5,7 @@ h1{
     background-color: lightslategray;
     z-index: -1;
     margin-left: 160px;
+    top: 0px;
 }
 .content{
     margin-left: 160px;
@@ -27,4 +28,5 @@ h1{
     background-color: navy;
     top: 0;
     z-index: 2;
+    float: right;
 }
