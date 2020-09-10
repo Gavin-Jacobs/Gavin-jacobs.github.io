@@ -12,7 +12,7 @@ h1{
 #top-boxes{
     height: 60%;
     width: 60%;
-    float: left;
+    position: relative;
 }
 #what{
     float: right;
