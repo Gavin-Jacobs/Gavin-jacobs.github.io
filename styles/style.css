@@ -6,9 +6,12 @@ h1{
     z-index: -1;
     margin-left: 160px;
 }
+body{
+    background-color: lightpink;
+}
 .content{
     margin-left: 160px;
-    background-color: lightpink;
+   
 }
 #top-boxes{
     height: 120px;
