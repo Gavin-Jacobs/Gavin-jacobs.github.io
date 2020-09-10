@@ -50,8 +50,8 @@ img{
 }
 .needed-border{
     border-style: solid;
-    border-width: thick;
+    border-width: 10px;
     border-color: black;
-    
+
     margin-top: 50px 100px 50px 100px;
 }
