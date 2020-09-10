@@ -1,0 +1,49 @@
+h1{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    background-color: lightslategray;
+    z-index: -1;
+    margin-left: 152px;
+    margin-top: 0px;
+}
+body{
+    background-color: lightpink;
+}
+.content{
+    margin-left: 152px;
+   
+}
+#top-boxes{
+    height: 120px;
+    width: 120px;
+    position: relative;
+}
+#what{
+    float: right;
+    width: 40%;
+    height: 160px;
+    object-fit: contain;
+  
+}
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+#sidebar{
+    text-decoration-color: darkgrey;
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    background-color: cornflowerblue;
+    top: 0;
+    left: 0;
+    z-index: 2;
+  
+}
+.segment-text{
+    margin-top: 160px;
+    background-color:lavenderblush;
+    height:150px;
+}
