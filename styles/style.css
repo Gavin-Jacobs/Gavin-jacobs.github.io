@@ -1,7 +1,7 @@
 h1{
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: medium;
+    font-size: 60px;
     background-color: lightslategray;
     z-index: -1;
     margin-left: 160px;
@@ -16,7 +16,8 @@ h1{
     offset right: 160px;
 }
 #what{
-    size: inherit;
+    position: relative;
+    scale: 40%;
 }
 #sidebar{
     text-decoration-color: darkgrey;
