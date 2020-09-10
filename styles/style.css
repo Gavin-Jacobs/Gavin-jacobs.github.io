@@ -6,6 +6,9 @@ h1{
     z-index: -1;
     margin-left: 160px;
 }
+body{
+    margin-left: 160px;
+}
 #top-boxes{
     position: relative;
     width: 600px;
