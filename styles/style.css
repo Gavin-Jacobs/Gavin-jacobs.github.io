@@ -10,7 +10,7 @@ body{
     background-color: lightpink;
 }
 .content{
-    margin-left: 160px;
+    margin-left: 150px;
    
 }
 #top-boxes{
@@ -42,6 +42,6 @@ img{
   
 }
 .segment-text{
-    margin-top: 100px;
+    margin-top: 160px;
     background-color:lavenderblush;
 }
