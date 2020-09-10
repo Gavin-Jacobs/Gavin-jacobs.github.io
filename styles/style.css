@@ -5,7 +5,7 @@ h1{
     background-color: lightslategray;
     z-index: -1;
     margin-left: 150px;
-    top:0;
+    margin-top: 0px;
 }
 body{
     background-color: lightpink;
