@@ -16,8 +16,8 @@ h1{
 }
 #what{
     float: right;
-    width: 120px;
-    height: 120px;
+    width: 40%;
+    height: 160px;
     object-fit: contain;
   
 }
