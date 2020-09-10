@@ -9,7 +9,7 @@ h1{
 .content{
     margin-left: 160px;
 }
-#top-boxes{
+.opens{
     position: relative;
     width: auto;
     float: left;
@@ -20,6 +20,11 @@ h1{
     height: 120px;
     object-fit: contain;
   
+}
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: scale-down;
 }
 #sidebar{
     text-decoration-color: darkgrey;
