@@ -13,20 +13,18 @@ h1{
 #top-boxes{
     position: relative;
     width: 600px;
-    float: left;
-    offset right: 160px;
+    float: right;
 }
 #what{
-    position: relative;
-    scale: 40%;
+  float: left;
 }
 #sidebar{
     text-decoration-color: darkgrey;
     height: 100%;
     width: 160px;
     position: fixed;
-    background-color: navy;
+    background-color: cornsilk;
     top: 0;
     z-index: 2;
-    float: right;
+  
 }
